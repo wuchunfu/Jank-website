@@ -252,13 +252,13 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ### Detailed Statistics
 | Language | Files | Code Lines | Comment Lines | Blank Lines | Percentage |
 |:--------:|:-----:|:----------:|:-------------:|:-----------:|:----------:|
-| TypeScript | 55 | 4698 | 137 | 463 | 89.5% |
-| JavaScript | 2 | 19 | 0 | 5 | 0.4% |
-| CSS | 1 | 289 | 12 | 44 | 5.5% |
-| Config Files | 3 | 218 | 1 | 8 | 4.2% |
+| TypeScript | 55 | 4723 | 141 | 466 | 88.8% |
+| JavaScript | 3 | 55 | 11 | 12 | 1.0% |
+| CSS | 1 | 289 | 12 | 44 | 5.4% |
+| Config Files | 3 | 226 | 1 | 8 | 4.2% |
 | Markdown | 0 | 0 | 0 | 0 | 0.0% |
 | Others | 2 | 25 | 11 | 9 | 0.5% |
-| **Total** | **63** | **5249** | **161** | **529** | **100%** |
+| **Total** | **64** | **5318** | **176** | **539** | **100%** |
 
 *Note: Statistics are automatically updated by GitHub Actions, last updated on 2025-03-30*
 *Excluded node_modules, .next, public directories and package-lock.json, pnpm-lock.yaml, components.json, LICENSE, .gitignore, .dockerignore, README.md, README_en.md files*
