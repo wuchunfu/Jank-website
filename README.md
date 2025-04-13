@@ -172,20 +172,18 @@ src/
 </p>
 
 ### 详细统计
+| 语言 | 文件数 | 代码行数 | 注释行数 | 空白行数 | 占比 |
+|:----:|:------:|:--------:|:--------:|:--------:|:----:|
+| TypeScript | 55 | 4723 | 141 | 466 | 88.8% |
+| JavaScript | 3 | 55 | 11 | 12 | 1.0% |
+| CSS | 1 | 289 | 12 | 44 | 5.4% |
+| 配置文件 | 3 | 226 | 1 | 8 | 4.2% |
+| Markdown | 0 | 0 | 0 | 0 | 0.0% |
+| 其他 | 2 | 25 | 11 | 9 | 0.5% |
+| **总计** | **64** | **5318** | **176** | **539** | **100%** |
 
-|    语言    | 文件数  | 代码行数  | 注释行数 | 空白行数 |   占比   |
-| :--------: | :-----: | :-------: | :------: | :------: | :------: |
-| TypeScript |   129   |   9779    |   1126   |   1215   |  92.6%   |
-| JavaScript |    3    |    76     |    65    |    21    |   0.7%   |
-|    CSS     |    4    |    408    |    25    |    36    |   3.9%   |
-|  配置文件  |    3    |    233    |    1     |    8     |   2.2%   |
-|  Markdown  |    0    |     0     |    0     |    0     |   0.0%   |
-|    其他    |    2    |    60     |    15    |    11    |   0.6%   |
-|  **总计**  | **141** | **10556** | **1232** | **1291** | **100%** |
-
-_注：统计数据由 GitHub Actions 自动更新，最后更新于 2025-04-12_
-_排除了 node_modules、.next、public 目录和 package-lock.json、pnpm-lock.yaml、components.json、LICENSE、.gitignore、.dockerignore、README.md、README_en.md 文件_
-
+*注：统计数据由 GitHub Actions 自动更新，最后更新于 2025-04-13*
+*排除了 node_modules、.next、public 目录和 package-lock.json、pnpm-lock.yaml、components.json、LICENSE、.gitignore、.dockerignore、README.md、README_en.md 文件*
 ## 许可证
 
 本项目遵循 [MIT 协议](https://opensource.org/licenses/MIT)。
