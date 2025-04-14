@@ -135,7 +135,7 @@ src/
 
 如果有任何疑问或建议，欢迎加入官方社区交流。
 
-<img src="https://s2.loli.net/2025/03/31/GA3jRfYrglL8ItJ.jpg" alt="官方社区" width="300" />
+<img src="https://s2.loli.net/2025/04/14/qpVkK3Ms9nm6dCj.jpg" alt="官方社区" width="300" />
 
 ## 特别鸣谢
 
